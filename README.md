@@ -1,2 +1,1 @@
-# modern-transformers
-Code  for my blog posts on modern transformers
+Code and data for my blog posts
