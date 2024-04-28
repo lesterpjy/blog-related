@@ -1,1 +1,1 @@
-Code and data for my blog posts
+Code and data for my [blog](https://lesterpjy.me/)
